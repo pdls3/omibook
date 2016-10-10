@@ -1,1 +1,2 @@
 this is master
+test undo changes by reset hard
