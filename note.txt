@@ -1,2 +1,3 @@
 this is master
 test undo changes by reset hardchange in test branch
+add from stash
